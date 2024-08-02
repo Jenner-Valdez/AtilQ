@@ -10,5 +10,8 @@
 
 ## Images
 ![Image](Datasets/img/Price_Trends_for_Top_Least_Selling_Product.PNG)
+![Image](Datasets/img/Repurchase_Rate_or_Top_4_Best_Selling_Products.PNG)
+![Image](Top_2_Best_Selling_Products_Per_Quarter_Per_Quantity.PNG)
 
 ### Technologies
+This was written using Jupyternotebook and visual code
