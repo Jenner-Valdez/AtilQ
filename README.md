@@ -9,9 +9,6 @@
 - Price trends for a product which correlates to the best time to sell
 
 ## Images
-![Image](Datasets/img/monthly_revenue.PNG)
-![Image](img/Price_Trends_for_Top_Least_Selling_Product.PNG)
-![Image](
-![Image](
+![Image](Datasets/img/Price_Trends_for_Top_Least_Selling_Product.PNG)
 
 ### Technologies
