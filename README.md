@@ -3,7 +3,7 @@
 ## Overview
 - Find the best way to create a higher revenue for AtilQ
 
-# Graph / Tableua
+# Graph / Tableau
 [Dashboard](https://public.tableau.com/views/FinalProject_17208106928160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## What is the reason for the project
