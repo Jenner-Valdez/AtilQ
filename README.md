@@ -4,8 +4,7 @@
 - Find the best way to create a higher revenue for AtilQ
 
 # Graph / Tableua
-![Link](https://public.tableau.com/app/profile/jenner.valdez.jacinto/viz/FinalProject_17208106928160/Dashboard1)
-[https://public.tableau.com/app/profile/jenner.valdez.jacinto/viz/FinalProject_17208106928160/Dashboard1](url)
+![Link](https://docs.github.com/en)
 
 ## What is the reason for the project
 - Find the best selling products for the month in quantity to know what products to advertise more
